@@ -1,0 +1,11 @@
+.container img{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.container button{
+    background-color: green;
+    color: white;
+    height: 30px;
+    padding: 7px;
+    border: 1px solid black;
+}
